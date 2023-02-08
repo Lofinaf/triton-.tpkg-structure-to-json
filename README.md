@@ -9,7 +9,7 @@ Library for converting triton(.tpkg) structural package to JavaScript Object Not
 - Fast work
 - Comfortable
 
-## Last update
+## Changelog
 
 | Version             | What`s new                                                                |
 | ----------------- | ------------------------------------------------------------------ |
@@ -84,5 +84,5 @@ int main() {
 
 ## Authors
 
-- [@РАСТР_НЕ_ВЕКРОТ](https://github.com/Nikita-bunikido)
+- [@РАСТР_НЕ_ВЕКРОP](https://github.com/Nikita-bunikido)
 
